@@ -1,0 +1,10 @@
+1	a	c	e	g
+2	b	d	f	h
+3	c	e	g	i
+4	d	f	h	j
+5	e	g	i	k
+6	f	h	j	l
+7	g	i	k	m
+8	h	j	l	n
+9	i	k	m	o
+10	j	l	n	p
